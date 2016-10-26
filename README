@@ -1,0 +1,28 @@
+vidTrack: computer vision tracking project for experimental rats
+
+Usage:
+
+$ ./vidtrack OPTIONS input_video.avi [input_video2.avi ...]
+
+OPTIONS:
+May include any combination of the following options, with or without preceding '-' (must be lowercase)
+
+r	Track the brightest red pixel
+b	Track the brightest blue pixel
+g	Track the brightest green pixel
+v	Output video showing tracking results
+		Note: this increases running time nontrivially.
+		Not recommended for batch mode.
+h	Display this help text and exit
+
+Example: track red and green pixels for two video files,
+	and output videos for each
+$ ./vidtrack rgv video1.avi video2.avi
+
+
+
+OUTPUT generated:
+output 2d-coordinate txt file (csv) (including orientation)
+JPG heat map image
+Video file showing chosen pixels (if 'v' options selected)
+

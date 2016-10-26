@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="README" open="1" top="0" tabpos="4">
+		<Cursor position="698" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="723" topLine="13" />
+	</File>
+	<File name="project_IO.hpp" open="1" top="0" tabpos="2">
+		<Cursor position="120" topLine="0" />
+	</File>
+	<File name="trackingMethods.hpp" open="1" top="1" tabpos="3">
+		<Cursor position="4617" topLine="128" />
+	</File>
+</CodeBlocks_layout_file>

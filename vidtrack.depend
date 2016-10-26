@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1387309827 source:/home/nda/code/sweng/vidtrack/main.cpp
+	<stdio.h>
+	<opencv2/opencv.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"project_IO.hpp"
+
+1382642123 /home/nda/code/sweng/vidtrack/readVideo.hpp
+	<stdio.h>
+	<opencv2/opencv.hpp>
+	"findLED.hpp"
+
+1382605068 /home/nda/code/sweng/vidtrack/findLED.hpp
+	<stdio.h>
+	<opencv2/opencv.hpp>
+
+1386760255 /home/nda/code/sweng/vidtrack/project_IO.hpp
+	<stdio.h>
+	<opencv2/opencv.hpp>
+	"trackingMethods.hpp"
+	<iostream>
+	<fstream>
+
+1387310452 /home/nda/code/sweng/vidtrack/trackingMethods.hpp
+	<stdio.h>
+	<opencv2/opencv.hpp>
+	<math.h>
+	"params.h"
+
+1386759446 /home/nda/code/sweng/vidtrack/params.h
+
